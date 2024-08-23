@@ -29,6 +29,7 @@ body {
   height: 100px;
   text-align: center;
   line-height: 1em;
+  cursor: pointer;
 }
 
 #container #class4 {
