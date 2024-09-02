@@ -1,0 +1,15 @@
+[
+    {
+      "name": "test",
+      "email": "test@mail.com",
+      "isadmin": true,
+      "password": "test"
+    },
+    {
+      "name": "nawaz",
+      "email": "nawaz@gmail.com",
+      "isadmin": false,
+      "password": "nawaz"
+    }
+  ]
+  
